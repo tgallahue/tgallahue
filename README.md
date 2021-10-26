@@ -2,7 +2,7 @@
 - 👀 I’m interested in Design, Art, Coding & Celtic FC
 - 🌱 I’m currently learning HTML5, CSS3 & Javascript
 - 💞️ I’m looking to collaborate on building a portfilio 
-- 📫 How to reach me email in profile
+- 📫 How to reach me - message me here
 
 <!---
 tgallahue/tgallahue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
